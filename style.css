@@ -5,7 +5,7 @@
 @import url("programar.css");
 @import url("contato.css");
 
-/* Estilos globais abaixo */
+/* Estilos globais */
 * {
     margin: 0;
     padding: 0;
@@ -44,7 +44,8 @@ nav a {
     font-weight: bold;
 }
 
-nav a:hover {
+nav a:hover,
+nav a.active {
     text-decoration: underline;
 }
 
@@ -80,4 +81,12 @@ footer {
     text-align: center;
     padding: 15px;
     margin-top: 30px;
+}
+
+/* Texto de incentivo comum a todas as páginas */
+.incentivo {
+    margin-top: 30px;
+    font-style: italic;
+    color: #2e7d32;
+    font-weight: bold;
 }

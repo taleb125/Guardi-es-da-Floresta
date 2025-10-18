@@ -1,9 +1,11 @@
-section {
-    background-color: #bbdefb;
-    padding: 20px;
-    border-radius: 8px;
+section h2 {
+    color: #2e7d32;
+    margin-bottom: 15px;
 }
 
-h2 {
-    color: #1565c0;
+section p {
+    max-width: 700px;
+    margin: 0 auto 15px auto;
+    font-size: 1.1rem;
+    line-height: 1.5;
 }
