@@ -99,12 +99,5 @@ footer {
     margin-right: auto;
 }
 
-/* Vídeo e iframe responsivos na seção hero */
-.hero video,
-.hero iframe {
-    max-width: 100%;
-    height: auto;
-    margin-top: 20px;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-}
+/* Vídeo e iframe removidos da seção hero */
+/* Código do vídeo e iframe foi removido */
