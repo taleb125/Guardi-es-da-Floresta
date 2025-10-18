@@ -5,7 +5,7 @@ Repositório criado para a Maratona Tech - Fase 2, estudando do Colégio Estadua
 
 #  Guardiões da Floresta
 
-**Guardiões da Floresta** é um projeto dedicado à **proteção das árvores e florestas nativas do Brasil**. Criamos uma plataforma para informar, conscientizar e mobilizar pessoas em defesa dos biomas brasileiros — especialmente a Amazônia, a Mata Atlântica, o Cerrado e outros ecossistemas ameaçados.
+**Guardiões da Floresta** é um projeto dedicado à **proteção das árvores e florestas nativas do Brasil**. Criamos uma plataforma para informar, conscientizar e mobilizar pessoas em defesa dos biomas brasileiros especialmente a Amazônia, a Mata Atlântica, o Cerrado e outros ecossistemas ameaçados.
 
 Nosso propósito é claro:  
 **Preservar hoje, para viver amanhã.**
