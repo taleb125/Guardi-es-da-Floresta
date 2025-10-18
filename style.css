@@ -5,7 +5,7 @@
 @import url("programar.css");
 @import url("contato.css");
 
-/* Estilos globais */
+/* Estilos globais abaixo */
 * {
     margin: 0;
     padding: 0;
@@ -44,8 +44,7 @@ nav a {
     font-weight: bold;
 }
 
-nav a:hover,
-nav a.active {
+nav a:hover, nav a.active {
     text-decoration: underline;
 }
 
@@ -83,10 +82,19 @@ footer {
     margin-top: 30px;
 }
 
-/* Texto de incentivo comum a todas as páginas */
+/* Estilo para as mensagens de incentivo */
 .incentivo {
     margin-top: 30px;
     font-style: italic;
-    color: #2e7d32;
+    color: #2e7d32; /* verde escuro */
     font-weight: bold;
+    font-family: Georgia, serif;
+    font-size: 1.2rem;
+    background-color: #e6f4ea; /* fundo verde bem clarinho */
+    padding: 15px 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(46, 125, 50, 0.3);
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
 }
