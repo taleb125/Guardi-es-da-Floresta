@@ -1,5 +1,4 @@
-# Guardi-es-da-Floresta
-
+#  Guardiões da Floresta
 ## Autor: Taleb Mortadah Ahmad Iskandar, 32, 2°A-DS
 
 Repositório criado para a Maratona Tech - Fase 2, estudando do Colégio Estadual Gabriel de Lara - Matinhos.
