@@ -90,11 +90,21 @@ footer {
     font-weight: bold;
     font-family: Georgia, serif;
     font-size: 1.2rem;
-    background-color: #e6f4ea; /* fundo verde bem clarinho */
+    background-color: #e6f4ea; /* fundo verde clarinho */
     padding: 15px 20px;
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(46, 125, 50, 0.3);
     max-width: 800px;
     margin-left: auto;
     margin-right: auto;
+}
+
+/* Vídeo e iframe responsivos na seção hero */
+.hero video,
+.hero iframe {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
